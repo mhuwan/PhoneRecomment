@@ -19,7 +19,6 @@ st.markdown(
     """
     <style>
       .block-container {padding-top: 1.2rem; padding-bottom: 3rem; max-width: 1200px;}
-      #MainMenu, footer {visibility: hidden;}
       .hero {
         padding: 1.6rem 1.8rem; border-radius: 24px; margin-bottom: 1.2rem;
         background: radial-gradient(circle at 85% 20%, rgba(236,72,153,.55), transparent 45%),
